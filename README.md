@@ -14,7 +14,7 @@ ShadowFlap consists of two levels, each with distinct gameplay elements and chal
 ### Game Elements
 
 - **Bird:** Controlled by the player using the space bar to flap. It features animations for wing flapping and the ability to pick up and shoot weapons.
-  - Life bar with hearts indicating remaining lives.
+  - A life bar with hearts indicates the remaining lives.
   - Spawn point at (200, 350).
 - **Pipes:** Pipes come in sets and act as obstacles for the bird.
   - **Plastic Pipes:** Destroyed with any weapon.
@@ -64,8 +64,6 @@ ShadowFlap consists of two levels, each with distinct gameplay elements and chal
 - **Pipe:** Represents the obstacles that the bird must avoid.
 - **Weapon:** Represents rocks and bombs that can be used to destroy pipes.
 - **LifeBar:** Displays the bird's remaining lives.
-
-The UML diagram (from Project 2A) outlines the relationship between these classes and their main attributes and methods.
 
 ## Game Mechanics
 
