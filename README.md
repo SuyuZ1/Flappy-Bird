@@ -1,6 +1,6 @@
 # ShadowFlap
 
-ShadowFlap is a Java-based 2D game inspired by the popular "Flappy Bird." It is developed as part of the SWEN20003 Object Oriented Software Development course at The University of Melbourne. The project requires implementing a bird navigating through a series of obstacles (pipes) with added features such as different levels, life bars, and weapons. The game utilizes the Basic Academic Game Engine Library (Bagel).
+ShadowFlap is a Java-based 2D game inspired by the popular "Flappy Bird."     The project requires implementing a bird navigating through a series of obstacles (pipes) with added features such as different levels, life bars, and weapons.   The game utilizes the Basic Academic Game Engine Library (Bagel).
 
 ## Overview
 
