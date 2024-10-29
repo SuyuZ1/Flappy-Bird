@@ -47,7 +47,7 @@ ShadowFlap consists of two levels, each with distinct gameplay elements and chal
 
 1. Clone the project repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/SuyuZ1/Flappy-Bird.git
    ```
 2. Import the project into your preferred Java IDE (e.g., IntelliJ IDEA).
 3. Ensure that the Bagel library is included in your project.
