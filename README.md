@@ -81,7 +81,7 @@ The UML diagram (from Project 2A) outlines the relationship between these classe
 
 ### Timescale Adjustment
 
-- Players can adjust the speed of the game by using the 'L' and 'K' keys.
+- Players can adjust the game's speed by using the 'L' and 'K' keys.
 - The timescale ranges from 1 to 5, with each increment or decrement adjusting the movement speed of the pipes by 50%.
 
 ## Media
@@ -89,7 +89,7 @@ The UML diagram (from Project 2A) outlines the relationship between these classe
 Below are some screenshots from ShadowFlap gameplay:
 
 ![Start Screen](images/start_screen.png)
-*The start screen prompting the player to begin.*
+*The start screen prompts the player to begin.*
 
 ![Level 0 Gameplay](images/level0_gameplay.png)
 *The bird navigating through pipes in Level 0.*
@@ -97,11 +97,6 @@ Below are some screenshots from ShadowFlap gameplay:
 ![Level 1 Weapon Pickup](images/level1_weapon.png)
 *The bird picking up a weapon in Level 1.*
 
-![Food Item](images/food_item.png)
-*An example of a food item that can be picked up during gameplay.*
-
-![Bird Eating Food](images/bird_eating.png)
-*The bird eating a food item to gain points.*
 
 ## Contributing
 
